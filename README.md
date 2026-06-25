@@ -1,2 +1,2 @@
-# Muzix
+# musikwkwkwk
 Created via RepoFlow
